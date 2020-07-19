@@ -14,4 +14,4 @@ token.php = ambil token manual
 
 cek.php = cek jumlah voucher
 
-donasinya kawan kawan https://link.dana.id/qr/a3yp67j
+donasinya kawan kawan Transfer uangnya pakai DANA aja. Lebih praktis, transfer di sini ya https://link.dana.id/qr/l5x6qia
